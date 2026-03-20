@@ -121,7 +121,7 @@ These dashboards help in analyzing product-level performance and overall sales i
 ---
 ## 📄 Project Report
 
-[Download PDF](power bi report.pdf)
+[Download PDF](powerbi report.pdf)
 
 🚀 Conclusion
 
