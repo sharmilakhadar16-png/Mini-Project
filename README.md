@@ -102,6 +102,11 @@ Perfume had the highest quantity sold (~1,886 units), while Vacuum Cleaner had t
 Lipstick generated the highest revenue (~48.16M), while Vacuum Cleaner contributed lower revenue (~41.19M).
 
 ---
+## Dashboard Screenshot
+
+![Dashboard](## Dashboard Screenshot)
+
+![Dashboard](image-name.png)
 
 📊 Dashboard Summary
 
