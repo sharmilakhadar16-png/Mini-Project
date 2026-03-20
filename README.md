@@ -119,7 +119,9 @@ Two interactive dashboards were created in Power BI:
 These dashboards help in analyzing product-level performance and overall sales insights effectively.
 
 ---
+## 📄 Project Report
 
+[Download PDF](powerbi-report.pdf)
 🚀 Conclusion
 
 This project demonstrates how raw data can be cleaned using Excel and transformed into meaningful insights using Power BI.
